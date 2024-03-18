@@ -1,3 +1,4 @@
+/* Hashing is a process of converting input data of any size into a fixed size unreadable output known as hash using a mathematical algorithm */
 import java.util.Scanner;
 public class hashing {
 public static int hash(String str, int range) {
